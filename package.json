@@ -1,0 +1,15 @@
+{
+  "name": "pi-superpowers",
+  "version": "1.0.0",
+  "description": "Model-agnostic structured development workflow for PI — brainstorm, plan, execute, review, verify. Ported from obra/superpowers.",
+  "keywords": ["pi-package", "superpowers", "skills", "tdd", "debugging", "brainstorming", "workflow"],
+  "license": "MIT",
+  "homepage": "https://github.com/obra/superpowers",
+  "pi": {
+    "extensions": ["./extensions"],
+    "skills": ["./skills"]
+  },
+  "peerDependencies": {
+    "@mariozechner/pi-coding-agent": "*"
+  }
+}
