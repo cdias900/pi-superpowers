@@ -1,6 +1,7 @@
 ---
 name: superpowers-debugging
 description: Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes
+disable-model-invocation: true
 ---
 
 # Systematic Debugging

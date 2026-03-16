@@ -1,6 +1,7 @@
 ---
 name: superpowers
 description: Use when starting any conversation - establishes how to find and use skills, requiring skill check before ANY response including clarifying questions
+disable-model-invocation: true
 ---
 
 <SUBAGENT-STOP>
